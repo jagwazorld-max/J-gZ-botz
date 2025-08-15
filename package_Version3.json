@@ -1,0 +1,13 @@
+{
+  "name": "jgz-bot",
+  "version": "1.1.0",
+  "description": "J-gz-bot - Stylish WhatsApp bot by Jagwax, with pairing, message utilities, media, and multi-cloud deployment.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "dotenv": "^16.0.0"
+  }
+}
