@@ -5,7 +5,7 @@ const path = require('path');
 
 const owners = process.env.OWNERS?.split(',').map(x => x.trim()) || [];
 const stylishName = '🌈 J-gz-bot 🌈';
-const profileImagePath = path.join(__dirname, 'assets', 'jgzbot-profile.png');
+const profileImagePath = path.join(__dirname, 'assets', 'humanoid-8722271_1920.png');
 const pairings = {};
 const deletedMsgs = {};
 const viewOnceMedia = {};
