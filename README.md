@@ -3,7 +3,7 @@
 A stylish, feature-rich WhatsApp bot powered by [Baileys](https://github.com/WhiskeySockets/Baileys), designed by Jagwax.  
 Supports owner pairing, secure code-based access, powerful  commands, media utilities, message tracking, and multi-platform deployment (Heroku, Katabump, Replit, AWS, DigitalOcean, Azure, Vultr, Google Cloud, and more!).
 
-![Bot Profile](assets/jgzbot-profile.png)
+![Bot Profile](assets/humanoid-8722271_1920.png)
 
 ---
 
