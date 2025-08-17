@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: jgz-bot
+    env: node
+    plan: free
+    buildCommand: "npm install"
+    startCommand: "npm start"
+    envVars:
+      - key: OWNERS
+        value: 2349160654415,2347050512232
